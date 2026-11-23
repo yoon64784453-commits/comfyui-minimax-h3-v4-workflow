@@ -1,0 +1,24 @@
+# Local runtime and user data
+ComfyUI_windows_portable_nvidia/
+custom_nodes/
+models/
+input/
+output/
+temp/
+user/
+*.db
+*.log
+*.rar
+*.zip
+*.7z
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.gguf
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+!workflows/*.json
